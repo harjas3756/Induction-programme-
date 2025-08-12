@@ -1,4 +1,6 @@
 # Induction-programme-
+name- Harjas singh
 Electrical engineering 
-#day 1 30 july 2025
+## day 1 
+## 30 july 2025
 
