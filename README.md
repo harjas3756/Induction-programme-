@@ -1,7 +1,11 @@
 # Induction-programme
-name - Harjas singh
-Electrical engineering 
+## name - Harjas singh
+## Electrical engineering 
 ## Day 1: A Grand Beginning (30th July, 2025)
 ​The induction program for 2025 began on a spiritual and formal note. We started the day with a serene Shabad Kirtan in the college gurdwara, a peaceful way to set a positive tone. This was followed by a brief break for tea and snacks, allowing everyone to mingle and settle in before the main event. At 10 a.m., the inaugural ceremony officially kicked off in the college auditorium. We were honored to hear from several key figures, including our esteemed Principal, Dr. Sehajpal Singh, and the Head of the Applied Sciences Department, Harpreet Kaur Ma'am, both of whom shared inspiring words. The ceremony's highlight was the address by our Chief Guest, Mahesh Inder Singh Grewal, who offered a motivating speech to welcome us into the college community. The day truly set a high standard for the week ahead, making us feel welcomed and excited for our new academic journey.
 ## day 2 (1st august, 2025)
 Day 2, held on the 1st of August, 2025, focused on a mix of foundational values and initial academic assessments. The morning session began with an insightful lecture from Priya Darshani Ma'am, who spoke to us about Universal Human Values in the auditorium from 9 a.m. to 11 a.m. Her session was followed by an engaging talk from Arvind Dhingra, Director of STEP and Incharge of TAC, who shared his valuable perspectives. After a well-deserved lunch break from 12:30 p.m. to 1:30 p.m., our focus shifted to academic evaluation. We took an English proficiency test from 1:30 p.m. to 2:30 p.m., followed by a Maths proficiency test from 2:30 p.m. to 3:30 p.m. The tests helped us understand our current skill levels, making the day a perfect blend of intellectual and evaluative activities.
+## day 3 (4th august, 2025)
+Day three brought an engaging mix of club activities and essential academic information. The morning began with an interactive session from the Causmic Club in the auditorium, giving us a taste of the extracurricular life on campus. This was followed by a highly informative lecture by Dr. Randhir Singh on the conduction of exams, which helped clarify the academic procedures we'll encounter. We then continued our discussion on ethics with a two-hour lecture by Priya Darshani Ma'am on Universal Human Values. After a lunch break, the induction program transitioned into the regular academic schedule. From 1:30 p.m. to 3:30 p.m., we attended our first official class lectures, which was a significant step towards our new academic year.
+
+
